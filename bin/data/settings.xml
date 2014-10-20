@@ -1,0 +1,20 @@
+<group>
+	<Noise_Amount>0</Noise_Amount>
+	<Point_Skip>6</Point_Skip>
+	<Real_Colors>1</Real_Colors>
+	<Color_Alpha>255</Color_Alpha>
+<group/>
+<partpos>-1366, -768, -768</partpos>
+<attr>-836.327, -478.041</attr>
+	<param>-780.571, -595.592</param>
+<stop_noise>0</stop_noise>
+	<Alpha>0.848</Alpha>
+	<hair>504</hair>
+	<r>1</r>
+	<g>0.675</g>
+	<b>0.075</b>
+<Noise_furry>0</Noise_furry>
+	<real_time>1</real_time>
+	<Noise_vert>0</Noise_vert>
+	<hair_leng>108</hair_leng>
+</group>
