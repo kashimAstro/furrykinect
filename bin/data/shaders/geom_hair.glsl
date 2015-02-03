@@ -36,8 +36,7 @@ void main() {
 }
 */
 
-
-#define N 3 
+#define N 9 
 
 layout(triangles) in;
 layout(line_strip) out;
